@@ -5,7 +5,7 @@
 - Traitement des données textuelles / Apprentissage de représentation par Marie Candito : 
     - J01_P02_ETAL-Intro-TAL_Candito.pdf (présentation)
     -  J01_P02_ETAL-Intro-TAL_Candito_notebook1-4.zip (notebooks du lundi)
-    - [Notebook du mardi](https://colab.research.google.com/drive/1p5l52OOJMXfiScHyCzid1ee88aDnNwlP?usp=sharing) (ou archive ci-dessous J02_P01_ETAL-Intro-TAL_Candito_notebook5.zip)
+    - [Notebook du mardi](https://colab.research.google.com/drive/1p5l52OOJMXfiScHyCzid1ee88aDnNwlP?usp=sharing) (ou archive ci-dessus J02_P01_ETAL-Intro-TAL_Candito_notebook5.zip)
 
 ## Jour 2 Partie 2 (Traitement automatique du langage multimodal) :
 - Partie de Benoît Favre : [Lien](https://pageperso.lis-lab.fr/benoit.favre/etal2025/)
