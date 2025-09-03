@@ -10,3 +10,6 @@
 ## Jour 2 Partie 2 (Traitement automatique du langage multimodal) :
 - Partie de Benoît Favre : [Lien](https://pageperso.lis-lab.fr/benoit.favre/etal2025/)
 - partie de Benjamin Piwowarski : [Lien](https://teaching.piwowarski.fr/talks/2025/2025-09-ETAL/main.html)
+
+## Jour 3 Partie 1 (Traitement de la parole) :
+- SLides de Laurent besacier : [Lien](https://github.com/besacier/ETAL2025 )
